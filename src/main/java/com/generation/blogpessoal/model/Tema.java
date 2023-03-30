@@ -14,7 +14,7 @@ import javax.validation.constraints.NotNull;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
-@Table(name = "tb_temass")
+@Table(name = "tb_temas")
 public class Tema {
 
 	@Id
