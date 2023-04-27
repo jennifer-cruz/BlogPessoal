@@ -59,7 +59,7 @@
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
-		</dependency> 
+		</dependency>
 		<!-- Dependência Spring Doc - Swagger -->
 		<dependency>
 			<groupId>org.springdoc</groupId>
@@ -79,7 +79,6 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
@@ -88,5 +87,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
